@@ -1,51 +1,86 @@
 export const exploreWorlds = [
-  {
-    id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
-  },
-  {
-    id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
-  },
-  {
-    id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
-  },
-  {
-    id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
-  },
-  {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
-  },
-];
+	{
+		id: 'world-1',
+		imgUrl: '/planet-01.png',
+		title: 'Avalanche Game',
+		link: 'https://github.com/Andrii-Levchuk/Web3-Avax-GameNFT-Challenge',
+	},
+	{
+		id: 'world-2',
+		imgUrl: '/planet-02.png',
+		title: 'Airbnb Challange',
+		link: 'https://github.com/Andrii-Levchuk/airbnb-demo',
+	},
+	{
+		id: 'world-3',
+		imgUrl: '/planet-03.png',
+		title: 'NFT Drop',
+		link: 'https://github.com/Andrii-Levchuk/nft-drop-challenge',
+	},
+	{
+		id: 'world-4',
+		imgUrl: '/planet-04.png',
+		title: 'Punk Challange',
+		link: 'https://github.com/Andrii-Levchuk/PunkChallange',
+	},
+	{
+		id: 'world-5',
+		imgUrl: '/planet-05.png',
+		title: 'Crwn Clothing',
+		link: 'https://github.com/Andrii-Levchuk/crwn-clothing',
+	},
+]
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Choose one of my project',
+  'Click on the VR button',
+  'Enjoy the GitHub repositories',
 ];
 
 export const newFeatures = [
-  {
-    imgUrl: '/vrpano.svg',
-    title: 'A new world',
-    subtitle:
-        'we have the latest update with new world for you to try never mind',
-  },
-  {
-    imgUrl: '/headset.svg',
-    title: 'More realistic',
-    subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
-  },
-];
+	{
+		imgUrl: '/html-1.svg',
+		title: 'A new world',
+		subtitle:
+			'we have the latest update with new world for you to try never mind',
+	},
+	{
+		imgUrl: '/JSlogo.svg',
+		title: 'A new world',
+		subtitle:
+			'we have the latest update with new world for you to try never mind',
+	},
+	{
+		imgUrl: '/redux.svg',
+		title: 'A new world',
+		subtitle:
+			'we have the latest update with new world for you to try never mind',
+	},
+	{
+		imgUrl: '/react-2.svg',
+		title: 'A new world',
+		subtitle:
+			'we have the latest update with new world for you to try never mind',
+	},
+	{
+		imgUrl: '/nextjs-3.svg',
+		title: 'More realistic',
+		subtitle:
+			'In the latest update, your eyes are narrow, making the world more realistic than ever',
+	},
+	{
+		imgUrl: '/tailwind-css-2.svg',
+		title: 'More realistic',
+		subtitle:
+			'In the latest update, your eyes are narrow, making the world more realistic than ever',
+	},
+	{
+		imgUrl: '/typescript.svg',
+		title: 'More realistic',
+		subtitle:
+			'In the latest update, your eyes are narrow, making the world more realistic than ever',
+	},
+]
 
 export const insights = [
   {
@@ -69,20 +104,19 @@ export const insights = [
 ];
 
 export const socials = [
-  {
-    name: 'twitter',
-    url: '/twitter.svg',
-  },
-  {
-    name: 'linkedin',
-    url: '/linkedin.svg',
-  },
-  {
-    name: 'instagram',
-    url: '/instagram.svg',
-  },
-  {
-    name: 'facebook',
-    url: '/facebook.svg',
-  },
-];
+	{
+		name: 'linkedin',
+		url: '/linkedin.svg',
+		finalUrl: 'https://www.linkedin.com/in/andrii-levchuk1/',
+	},
+	{
+		name: 'instagram',
+		url: '/instagram.svg',
+		finalUrl: 'https://www.instagram.com/andriyko_levchuk/',
+	},
+	{
+		name: 'facebook',
+		url: '/facebook.svg',
+		finalUrl: 'https://www.facebook.com/andrey.levchuk.543',
+	},
+]
