@@ -23,7 +23,7 @@ const Navbar = () => (
 			/>
 
 			<h2 className='font-extrabold text-[24px] leading-[30px] text-white'>
-				Junior Software Developer
+				Junior Front-end Developer
 			</h2>
 				<img
 					src='/menu.svg'

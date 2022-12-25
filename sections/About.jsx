@@ -23,7 +23,7 @@ const About = () => (
 				className='mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white'
 			>
 				<span className='font-extrabold text-white'>
-					I am a self-taught developer engeneer
+					I am a self-taught front-end developer
 				</span>{' '}
 				with a strong passion for creating user-friendly and engaging websites
 				and applications. I have spent the last 1.5 years learning and

@@ -8,8 +8,8 @@ export const exploreWorlds = [
 	{
 		id: 'world-2',
 		imgUrl: '/planet-02.png',
-		title: 'Airbnb Challange',
-		link: 'https://github.com/Andrii-Levchuk/airbnb-demo',
+		title: 'OpenAI ChatGPT',
+		link: 'https://project-openai-chat-gpt.vercel.app/',
 	},
 	{
 		id: 'world-3',
@@ -20,8 +20,8 @@ export const exploreWorlds = [
 	{
 		id: 'world-4',
 		imgUrl: '/planet-04.png',
-		title: 'Punk Challange',
-		link: 'https://github.com/Andrii-Levchuk/PunkChallange',
+		title: 'Airbnb Clone Challenge',
+		link: 'https://airbnb-demo-fpx1ax0jj-andrii-levchuk.vercel.app/',
 	},
 	{
 		id: 'world-5',
