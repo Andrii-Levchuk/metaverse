@@ -12,16 +12,16 @@ export const exploreWorlds = [
 		link: 'https://project-openai-chat-gpt.vercel.app/',
 	},
 	{
-		id: 'world-3',
-		imgUrl: '/planet-03.png',
-		title: 'NFT Drop',
-		link: 'https://github.com/Andrii-Levchuk/nft-drop-challenge',
-	},
-	{
 		id: 'world-4',
 		imgUrl: '/planet-04.png',
 		title: 'Airbnb Clone Challenge',
 		link: 'https://airbnb-demo-fpx1ax0jj-andrii-levchuk.vercel.app/',
+	},
+	{
+		id: 'world-3',
+		imgUrl: '/planet-03.png',
+		title: 'NFT Drop',
+		link: 'https://github.com/Andrii-Levchuk/nft-drop-challenge',
 	},
 	{
 		id: 'world-5',
